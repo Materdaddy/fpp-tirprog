@@ -1,0 +1,3 @@
+[submodule "tirprog"]
+	path = tirprog
+	url = git@github.com:Materdaddy/tirprog.git
